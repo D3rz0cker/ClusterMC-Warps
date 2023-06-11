@@ -1,0 +1,12 @@
+name: ClusterMC-Warp
+version: '${project.version}'
+main: de.clustermcwarp.Main
+api-version: 1.19
+
+commands:
+  clusterwarp:
+    aliases:
+      - warp
+      - warps
+      - clusterw
+      - cwarp
